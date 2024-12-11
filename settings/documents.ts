@@ -24,6 +24,11 @@ export const Documents: Paths[] = [
     spacer: true,
   },
   {
+    title: "Stakeholder Requirement",
+    href: "/stakeholderRequirement",
+    heading: "Analisis Kebutuhan",
+  },
+  {
     title: "Bisnis Requirement",
     href: "/businessRequirement",
     heading: "Analisis Kebutuhan",
