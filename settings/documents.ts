@@ -25,8 +25,8 @@ export const Documents: Paths[] = [
   },
   
   {
-    title: "Analisi Kebutuhan",
-    href: "/AnalisisKebutuhan",
+    title: "Analisis Kebutuhan",
+    href: "/analisisKebutuhan",
     items: [
       {
         title: "Business Requirement",
